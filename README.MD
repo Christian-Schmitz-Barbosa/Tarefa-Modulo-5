@@ -1,0 +1,2 @@
+Eu fiz a estrutura das pastas com as Dependencies de forma parecida como nos repositorios da Cadeira, então deve estar configurado o projeto para rodar sem problemas
+No máximo, terá que configurar a dependencia do glew no visual studio 
